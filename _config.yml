@@ -1,4 +1,5 @@
 title: Gilp's site
 description: A website where I can put my work and stuff.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
